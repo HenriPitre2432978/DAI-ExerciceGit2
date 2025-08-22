@@ -1,2 +1,6 @@
 ajout text1 
+<<<<<<< HEAD
 Modif étape 7
+=======
+Modif étape 6
+>>>>>>> 1b756b941105c0ad5fdda381efb96d2ac43f5898
